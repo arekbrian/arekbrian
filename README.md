@@ -2,7 +2,10 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arekbrian) 
 
 # 💫 About Me:
-Hi There, I'm Brian Arek. I'm a Front-end Developer , Software Developer, Back-end Developer and Flutter Developer<br>I'm looking forward to collaborating in Open-Source Projects
+[![committers.top badge](https://user-badge.committers.top/kenya/arekbrian.svg)](https://user-badge.committers.top/kenya/arekbrian)<br>
+Hi There, I'm Brian Arek. I'm a Front-end Developer , Software Developer, Back-end Developer and Flutter Developer<br>I'm looking forward to collaborating in Open-Source Projects. <br>
+
+[![AREK BRIAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arekbrian&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/arekbrian/)
 
 
 ## 🌐 Socials:
