@@ -31,4 +31,4 @@ Hi There, I'm Brian Arek. I'm a Front-end Developer , Software Developer, Back-e
 
 ## Visit counts
 [![](https://visitcount.itsvg.in/api?id=arekbrian&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/arekbrian&title=Visitorcount&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/arekbrian&title=Visitcount&edge_flat=false)
