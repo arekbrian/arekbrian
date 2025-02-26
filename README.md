@@ -30,4 +30,5 @@ Hi There, I'm Brian Arek. I'm a Front-end Developer , Software Developer, Back-e
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Visit counts
-[![](https://visitcount.itsvg.in/api?id=arekbrian&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arekbrian&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+
