@@ -1,7 +1,8 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arekbrian) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
 
 # 💫 About Me:
 [![committers.top badge](https://user-badge.committers.top/kenya/arekbrian.svg)](https://user-badge.committers.top/kenya/arekbrian)<br>
