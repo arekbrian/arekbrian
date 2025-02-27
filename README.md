@@ -1,6 +1,8 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arekbrian) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
+
 # 💫 About Me:
 [![committers.top badge](https://user-badge.committers.top/kenya/arekbrian.svg)](https://user-badge.committers.top/kenya/arekbrian)<br>
 Hi There, I'm Brian Arek. I'm a Front-end Developer , Software Developer, Back-end Developer and Flutter Developer<br>I'm looking forward to collaborating in Open-Source Projects. <br>
